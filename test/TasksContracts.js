@@ -49,8 +49,6 @@ contract("TasksContract", () => {
     });
 });
 
-//https://youtu.be/FAMWIoKvfRs?t=4780
-
 /**
  1. truffle console
  2. tasksContract = await TasksContract.deployed()
