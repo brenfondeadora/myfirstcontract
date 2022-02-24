@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@truffle/contract": "^4.4.9",
+    "bootstrap": "^5.1.3",
+    "lite-server": "^2.6.1"
+  },
+  "name": "myfirstcontract",
+  "description": "Solidity &amp; Javascript App - Ethereum DAPP based on the tutorial [Youtube](https://www.youtube.com/watch?v=FAMWIoKvfRs)",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brenfondeadora/myfirstcontract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brenfondeadora/myfirstcontract/issues"
+  },
+  "homepage": "https://github.com/brenfondeadora/myfirstcontract#readme"
+}

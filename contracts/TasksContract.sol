@@ -43,5 +43,3 @@ contract TasksContract {
         emit TaskToggleDone(_id, _task.done);
     }
 }
-
-//https://www.youtube.com/watch?v=FAMWIoKvfRs =< 50:18
