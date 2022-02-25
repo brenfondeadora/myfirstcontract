@@ -92,9 +92,3 @@ App = {
 }
 
 App.init();
-
-//https://youtu.be/FAMWIoKvfRs?t=8712
-
-//1. Inicializar ganache
-//2. en consola sudo truffle migrate
-//3. npm run dev
